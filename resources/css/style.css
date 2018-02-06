@@ -1,6 +1,6 @@
 * {
   font-family: Verdana;
-  font-color: white
+  color: white;
   background-color: black;
   text-align: center;
 }
@@ -10,16 +10,21 @@ h1 {
 }
 
 .download {
-  font-color: aquamarine;
+  color: aquamarine;
   font-size: 16px;
 }
 
 h2 {
   font-weight: 300;
-  font-size: 42px
+  font-size: 42px;
+}
+
+.remembers {
+  font-size: 21px;
+  color: Gray;
 }
 
 .copyright {
   text-align: right;
-  font-color: gray;
+  color: gray;
 }
